@@ -18,7 +18,7 @@ Change the working directory
 ------------------
 
 ```
-# cd case_study
+# cd  terraform_case_study
 # ls 
 ```
 

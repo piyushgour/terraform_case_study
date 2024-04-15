@@ -4,7 +4,7 @@ Clone the repo
 ------------------
 
 ```
-# git clone https://github.com/piyushgour/linux-admin-task.git
+# git clone https://github.com/piyushgour/terraform_case_study.git
 ```
 
 
